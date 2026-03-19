@@ -1,4 +1,4 @@
-# my-ai-rules
+# my-ai-skills
 
 我的 AI 编码规则和 Skill 集合，支持多个 AI 工具平台。
 
